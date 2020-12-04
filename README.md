@@ -15,7 +15,7 @@ If everything works with CLOC, make sure that you have the python installed in y
 
 
 From the project, you will only need the main.py file. Save it into a directory that makes sense to you.
-After that, use a command prompto to execute the py fil: python main.py
+After that, use a command prompto to execute the py file: python main.py
 
 This will run the script and you can start to use the application.
 
